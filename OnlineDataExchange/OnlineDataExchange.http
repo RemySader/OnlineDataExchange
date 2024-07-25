@@ -1,0 +1,6 @@
+@OnlineDataExchange_HostAddress = http://localhost:5217
+
+GET {{OnlineDataExchange_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
